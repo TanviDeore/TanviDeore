@@ -1,13 +1,4 @@
 # Hey there, I'm Tanvi Vijay Deore! 👋
-Connect me on: 
-<a href="https://www.linkedin.com/in/tanvi-deore-b41381180/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24">
-</a>
-
-<a href="mailto:tanvi.deore1124@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" height="24">
-</a>
-
 ---
 
 Welcome to my little corner of the internet!  I’m a Software Engineer passionate about creating high-impact solutions. I’ve built robust microservices and streamlined database operations, and I’m currently advancing my expertise by pursuing a Master’s in Computer Science at the University of Texas at Dallas.
@@ -48,7 +39,13 @@ I'm comfortable working with a range of technologies, including:
 * **MS in Computer Science**, University of Texas at Dallas (Expected Dec 2026, GPA: 3.84)
 ---
 
-
+Let's connect:
+<a href="https://www.linkedin.com/in/tanvi-deore-b41381180/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24">
+</a>
+<a href="mailto:tanvi.deore1124@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" height="24">
+</a>
 <!--
 **TanviDeore/TanviDeore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
