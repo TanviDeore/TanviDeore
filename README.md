@@ -38,7 +38,7 @@ I'm comfortable working with a range of technologies, including:
 * **MS in Computer Science**, University of Texas at Dallas (Expected Dec 2026, GPA: 3.84)
 ---
 
-Let's connect:
+Let's connect: <br>
 <a href="https://www.linkedin.com/in/tanvi-deore-b41381180/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24">
 </a>
