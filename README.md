@@ -1,12 +1,10 @@
-## Hi there 👋
 # Hey there, I'm Tanvi Vijay Deore! 👋
 
 [[LinkedIn](https://www.linkedin.com/in/tanvi-deore-b41381180/)] | [tanvi.deore1124@gmail.com](mailto:tanvi.deore1124@gmail.com)
 
 ---
 
-Welcome to my little corner of the internet! I'm a Software Engineer deeply interested in building impactful solutions, especially with Java/Spring Boot on the backend and exploring the ever-evolving world of frontend technologies like Angular and React. My journey has taken me from crafting microservices to optimizing database operations, and now I'm diving deeper into Computer Science with my Master's at The University of Texas at Dallas.
-
+Welcome to my little corner of the internet!  I’m a Software Engineer passionate about creating high-impact solutions. I’ve built robust microservices and streamlined database operations, and I’m currently advancing my expertise by pursuing a Master’s in Computer Science at the University of Texas at Dallas.
 ---
 
 ## 🛠️ My Toolkit
