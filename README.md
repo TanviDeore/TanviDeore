@@ -1,6 +1,6 @@
 # Hey there, I'm Tanvi Vijay Deore! 👋
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/tanvi-deore-b41381180/) | [![Gmail](https://cdn.simpleicons.org/gmail/EA4335)](mailto:tanvi.deore1124@gmail.com) [tanvi.deore1124@gmail.com](mailto:tanvi.deore1124@gmail.com)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/tanvi-deore-b41381180/) | [![Gmail](https://cdn.simpleicons.org/gmail/EA4335)][tanvi.deore1124@gmail.com](mailto:tanvi.deore1124@gmail.com)
 
 ---
 
