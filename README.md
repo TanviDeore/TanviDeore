@@ -18,55 +18,6 @@ I am open for internship roles in Software Engineering/ Development.
 
 I have experience across a range of technologies, including:
 
-
-* **Languages:**  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   width="24" alt="Java"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"          width="24" alt="C"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"   width="24" alt="SQL"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   width="24" alt="HTML5"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"       width="24" alt="CSS"/>]
-
-* **Frameworks/Libraries:**  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"      width="24" alt="Spring Boot"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="24" alt="Angular"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"          width="24" alt="React.js"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"        width="24" alt="Node.js"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"      width="24" alt="Express.js"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"        width="24" alt="Microservices"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"  width="24" alt="Hibernate"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg"              width="24" alt="JUnit"/>]
-
-* **Databases:**  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"       width="24" alt="MySQL"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" alt="PostgreSQL"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="24" alt="MongoDB"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"     width="24" alt="Oracle"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="24" alt="MSSQL"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"     width="24" alt="SQLite"/>]
-
-* **Tools & Other Technologies:**  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24" alt="AWS"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"       width="24" alt="GitLab"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"       width="24" alt="GitHub"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"     width="24" alt="Jenkins"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"     width="24" alt="Postman"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"           width="24" alt="Shell Scripting"/>]
-
-* **Data Science & Machine Learning:**  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       width="24" alt="Machine Learning"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       width="24" alt="Deep Learning"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"       width="24" alt="Pandas"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"         width="24" alt="NumPy"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="24" alt="Scikit-learn"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" alt="TensorFlow"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="24" alt="Matplotlib"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"       width="24" alt="OpenCV"/>]  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg"             width="24" alt="NLTK"/>]
-
-
 * **Languages:** Java, Python, C, SQL, JavaScript, TypeScript, HTML5, CSS
 * **Frameworks/Libraries:** Spring Boot, Angular, React.js, Node.js, Express.js, Microservices, Hibernate, JUnit
 * **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, MSSQL, SQLite.
