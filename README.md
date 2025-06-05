@@ -5,6 +5,7 @@
 ---
 
 Welcome to my little corner of the internet!  I’m a Software Engineer passionate about creating high-impact solutions. I’ve built robust microservices and streamlined database operations, and I’m currently advancing my expertise by pursuing a Master’s in Computer Science at the University of Texas at Dallas.
+
 ---
 
 ## 🛠️ My Toolkit
