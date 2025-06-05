@@ -8,7 +8,7 @@ I am open for internship roles in Software Engineering/ Development.
 
 ## 🛠️ My Toolkit
 
-I'm comfortable working with a range of technologies, including:
+I have experience across a range of technologies, including:
 
 * **Languages:** Java, Python, C, SQL, JavaScript, TypeScript, HTML5, CSS
 * **Frameworks/Libraries:** Spring Boot, Angular, React.js, Node.js, Express.js, Microservices, Hibernate, JUnit
