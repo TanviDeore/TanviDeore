@@ -14,7 +14,7 @@ I have experience across a range of technologies, including:
 * **Frameworks/Libraries:** Spring Boot, Angular, React.js, Node.js, Express.js, Microservices, Hibernate, JUnit
 * **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, MSSQL, SQLite.
 * **Tools & Other Technologies:** AWS, CI/CD, GitLab, GitHub, Jenkins, Postman, Shell Scripting.
-* **Data Science & Machine Learning::** Machine Learning, Deep Learning, Data Analytics, Data Visualization, Pandas, NumPy, Scikit-learn, TensorFlow, Transformers, Matplotlib, OpenCV, NLTK.
+* **Data Science & Machine Learning:** Machine Learning, Deep Learning, Data Analytics, Data Visualization, Pandas, NumPy, Scikit-learn, TensorFlow, Transformers, Matplotlib, OpenCV, NLTK.
 ---
 
 
