@@ -1,9 +1,5 @@
 # Hey there, I'm Tanvi Vijay Deore! 👋
 Connect me on: 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#0077B5">
-  <title>LinkedIn</title>
-  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6zM2 9h4v12H2zM4 6a2 2 0 1 1-2-2 2 2 0 0 1 2 2z"/>
-</svg>
 <a href="https://www.linkedin.com/in/tanvi-deore-b41381180/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">
 </a>
