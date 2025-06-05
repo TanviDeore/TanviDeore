@@ -3,6 +3,7 @@ Connect me on:
 <a href="https://www.linkedin.com/in/tanvi-deore-b41381180/">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="24" height="24">
 </a>
+
 <a href="mailto:tanvi.deore1124@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" height="24">
 </a>
