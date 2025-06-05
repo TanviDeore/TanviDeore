@@ -1,7 +1,7 @@
 # Hey there, I'm Tanvi Vijay Deore! 👋
 Connect me on: 
 <a href="https://www.linkedin.com/in/tanvi-deore-b41381180/">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="24" height="24">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">
 </a>
 <a href="mailto:tanvi.deore1124@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" height="24">
