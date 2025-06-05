@@ -28,7 +28,7 @@ I'm comfortable working with a range of technologies, including:
 * Skills: Customer service, Technical troubleshooting, problem solving.
 
 💻 Software Engineer @ LTIMindtree
-* Skills: Java, Angular, Jenkins, Maven, CI/CD, Relational Databases, Spring boot
+* Skills: Java, Angular, Jenkins, Maven, CI/CD, Relational Databases, Spring boot, bash.
 
 💻 Database Intern @ Trivia Softwares
 * Skills: PL/SQL, MySQL.
