@@ -22,16 +22,16 @@ I'm comfortable working with a range of technologies, including:
 ## ✨ A Bit About My Experience
 
 💻 Software Developer @ The University of Texas at Dallas
-Skills: Java, JSF, Spring MVC.
+* Skills: Java, JSF, Spring MVC.
 
 💻 IT Analyst @ The University of Texas at Dallas
-Skills: Customer service, Technical troubleshooting, problem solving.
+* Skills: Customer service, Technical troubleshooting, problem solving.
 
 💻 Software Engineer @ LTIMindtree
-Skills: Java, Angular, Jenkins, Maven, CI/CD, Relational Databases, Spring boot
+* Skills: Java, Angular, Jenkins, Maven, CI/CD, Relational Databases, Spring boot
 
 💻 Database Intern @ Trivia Softwares
-Skills: PL/SQL, MySQL.
+* Skills: PL/SQL, MySQL.
 
 ---
 
@@ -39,11 +39,6 @@ Skills: PL/SQL, MySQL.
 * **MS in Computer Science**, University of Texas at Dallas (Expected Dec 2026, GPA: 3.84)
 ---
 
-## 📫 How to reach me.
-
-I'm always open to discussing new projects, technologies, or just connecting with fellow developers!
-* **LinkedIn:** `[[LinkedIn](https://www.linkedin.com/in/tanvi-deore-b41381180/)]`
-* **Email:** `[tanvi.deore1124@gmail.com](mailto:tanvi.deore1124@gmail.com)`
 
 <!--
 **TanviDeore/TanviDeore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
