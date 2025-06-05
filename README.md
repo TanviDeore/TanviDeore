@@ -18,8 +18,8 @@ I am open for internship roles in Software Engineering/ Development.
 
 I have experience across a range of technologies, including:
 
-* **Languages:** Java, Python, C, SQL, JavaScript, TypeScript, HTML5, CSS
-* **Frameworks/Libraries:** Spring Boot, Angular, React.js, Node.js, Express.js, Microservices, Hibernate, JUnit
+* **Languages:** Java, Python, C, SQL, JavaScript, TypeScript, HTML5, CSS.
+* **Frameworks/Libraries:** Spring Boot, Angular, React.js, Node.js, Express.js, Microservices, Hibernate, JUnit.
 * **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, MSSQL, SQLite.
 * **Tools & Other Technologies:** AWS, CI/CD, GitLab, GitHub, Jenkins, Postman, Shell Scripting.
 * **Data Science & Machine Learning:** Machine Learning, Deep Learning, Data Analytics, Data Visualization, Pandas, NumPy, Scikit-learn, TensorFlow, Transformers, Matplotlib, OpenCV, NLTK.
