@@ -41,7 +41,7 @@ I'm comfortable working with a range of technologies, including:
 Let's connect: <br>
 <a href="https://www.linkedin.com/in/tanvi-deore-b41381180/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24">
-</a>
+</a> &nbsp;&nbsp;
 <a href="mailto:tanvi.deore1124@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" height="24">
 </a>
