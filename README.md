@@ -7,9 +7,9 @@ I am open for internship roles in Software Engineering/ Development.
 ---
 
 ## 💡 About me
-💻 2+ years building Java/Spring microservices & Angular/React front-ends.
-📚 MS in Computer Science at UT Dallas (expected Dec 2026)
-🤖 Currently pursuing the Intelligent Systems & Data Science track, focusing on ML, NLP, and AI.
+* 💻 2+ years building Java/Spring microservices & Angular/React front-ends.
+* 📚 MS in Computer Science at UT Dallas (expected Dec 2026)
+* 🤖 Currently pursuing the Intelligent Systems & Data Science track, focusing on ML, NLP, and AI.
 
 ---
 
