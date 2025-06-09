@@ -29,7 +29,7 @@ I have experience across a range of technologies, including:
 ## ✨ A Bit About My Experience
 
 💻 Software Developer @ The University of Texas at Dallas
-* Skills: Java, JSF, Spring MVC.
+* Skills: Java, JSF, Spring MVC, hibernate, selenium.
 
 💻 IT Analyst @ The University of Texas at Dallas
 * Skills: Customer service, Technical troubleshooting, problem solving.
